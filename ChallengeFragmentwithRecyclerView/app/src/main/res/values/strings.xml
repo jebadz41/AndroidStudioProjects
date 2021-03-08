@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Challenge Fragment with Recycler View</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvCarModel">TextView</string>
+    <string name="tvOwnerName">TextView</string>
+    <string name="carlogo">TODO</string>
+    <string name="car_info">car info</string>
+    <string name="owner_info">owner info</string>
+    <string name="tvCarmodel">TextView</string>
+    <string name="carLogo">TODO</string>
+    <string name="owner_information">Owner Information</string>
+    <string name="tvOwnername">TextView</string>
+    <string name="tvOwnerTel">TextView</string>
+</resources>

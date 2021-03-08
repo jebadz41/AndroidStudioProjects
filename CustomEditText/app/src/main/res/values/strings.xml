@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CustomEditText</string>
+    <string name="hint">hint</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="eneter_your_last_name">Eneter your Last name</string>
+</resources>

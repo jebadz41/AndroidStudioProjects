@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BackEndless-Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="show_family_location">Show Family Location</string>
+    <string name="login_peter">Login Peter</string>
+    <string name="login_thabo">Login Thabo</string>
+    <string name="login_melson">Login Melson</string>
+    <string name="login_susan">Login Susan</string>
+</resources>

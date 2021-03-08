@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="loading">Loading...please wait...</string>
+    <string name="todo">TODO</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="please_enter_email">Please Enter Email</string>
+    <string name="forgot_password_reset_here">Forgot Password? Reset here.</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="please_retype_password">Please Retype Password</string>
+    <string name="please_enter_name">Please Enter Name</string>
+    <string name="loading_please_wait">Loading...please wait...</string>
+</resources>
